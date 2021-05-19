@@ -1,5 +1,5 @@
-# 👔Korea-Asset-Pricing
-> **[intern] KAP에서의 업무일지**를 작성합니다.
+# 🌳MOORIM
+> **[system planning division] MOORIM에서의 업무일지**를 작성합니다.
 
 ## TIW (Today I worked)
 
